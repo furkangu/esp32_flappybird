@@ -7,8 +7,11 @@ in .INO File:
 Insert SSID and Password in Arduino IDE and upload
 
 To Upload:
-Keep Pressing Boot Button
-Press Reset 1x
-Still press Boot.
+
+- Keep Pressing Boot Button
+- Press Reset 1x
+- Still press Boot.
+
+
 
 Release when Arduino IDE just started printing connecting....
